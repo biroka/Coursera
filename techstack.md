@@ -3,14 +3,14 @@
 ## Tech Stack
 biroka/Coursera is built on the following main stack:
 
-- [Ruby](https://www.ruby-lang.org) – Languages
-- [Python](https://www.python.org) – Languages
-- [Java](https://www.java.com) – Languages
-- [Scala](http://www.scala-lang.org/) – Languages
 - [C++](http://www.cplusplus.com/) – Languages
 - [Haskell](http://www.haskell.org/) – Languages
-- [R Language](http://www.r-project.org/) – Languages
+- [Java](https://www.java.com) – Languages
 - [MATLAB](http://www.mathworks.com/products/matlab/) – Languages
+- [Python](https://www.python.org) – Languages
+- [R Language](http://www.r-project.org/) – Languages
+- [Ruby](https://www.ruby-lang.org) – Languages
+- [Scala](http://www.scala-lang.org/) – Languages
 - [Jupyter](http://jupyter.org) – Data Science Notebooks
 - [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
@@ -22,14 +22,14 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 biroka/Coursera is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/995/K85ZWV2F.png' alt='Java'/> [Java](https://www.java.com) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1012/scala.png' alt='Scala'/> [Scala](http://www.scala-lang.org/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1049/cplusplus.png' alt='C++'/> [C++](http://www.cplusplus.com/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1069/oCgm29k9.png' alt='Haskell'/> [Haskell](http://www.haskell.org/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1213/r-logo.png' alt='R Language'/> [R Language](http://www.r-project.org/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/995/K85ZWV2F.png' alt='Java'/> [Java](https://www.java.com) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1214/h5g3etjnacmazg8oq17z.jpeg' alt='MATLAB'/> [MATLAB](http://www.mathworks.com/products/matlab/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1213/r-logo.png' alt='R Language'/> [R Language](http://www.r-project.org/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1012/scala.png' alt='Scala'/> [Scala](http://www.scala-lang.org/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg' alt='Jupyter'/> [Jupyter](http://jupyter.org) – Data Science Notebooks
 - <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
@@ -42,7 +42,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [biroka/Coursera](https://github.com/biroka/Coursera)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|11<br/>Tools used|01/05/24 <br/>Report generated|
+|11<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
